@@ -1,0 +1,5 @@
+com\cmpe275\guice\GreeterModule.class
+com\cmpe275\guice\WarmGreeter.class
+com\cmpe275\guice\App.class
+com\cmpe275\guice\CoolGreeter.class
+com\cmpe275\guice\Greeter.class
